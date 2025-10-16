@@ -28,7 +28,7 @@
 
 **How to Run**
 **Clone the repository:**
-  git clone https://github.com/your-username/netflix-dataset-analysis.git
+  git clone https://github.com/Barath-200/VOIS_AICTE_Oct2025_MajorProject_Barath.git
 
 **Install required libraries:**
   pip install pandas numpy matplotlib seaborn
